@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogApi", "EventLogApi\EventLogApi.csproj", "{7799F811-B6E3-49A3-AB0E-8ED1838A6AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{1687AE49-9F81-4CE2-BD39-CE711272274C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{5EDBCB11-7012-49E6-9F02-492007544DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7799F811-B6E3-49A3-AB0E-8ED1838A6AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7799F811-B6E3-49A3-AB0E-8ED1838A6AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7799F811-B6E3-49A3-AB0E-8ED1838A6AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7799F811-B6E3-49A3-AB0E-8ED1838A6AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1687AE49-9F81-4CE2-BD39-CE711272274C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687AE49-9F81-4CE2-BD39-CE711272274C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687AE49-9F81-4CE2-BD39-CE711272274C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687AE49-9F81-4CE2-BD39-CE711272274C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDBCB11-7012-49E6-9F02-492007544DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDBCB11-7012-49E6-9F02-492007544DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDBCB11-7012-49E6-9F02-492007544DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDBCB11-7012-49E6-9F02-492007544DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
